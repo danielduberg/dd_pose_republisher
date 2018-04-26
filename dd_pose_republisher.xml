@@ -1,0 +1,9 @@
+<library path="lib/libdd_pose_republisher">
+  <class name="dd_pose_republisher/Pose Republisher"
+         type="dd_pose_republisher::DDPoseRepublisherPanel"
+         base_class_type="rviz::Panel">
+    <description>
+      A panel widget allowing...
+    </description>
+  </class>
+</library>
